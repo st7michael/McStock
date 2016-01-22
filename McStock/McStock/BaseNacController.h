@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BaseNacController.h
 //  McStock
 //
 //  Created by Yiqiao on 16/1/22.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UITabBarController
+@interface BaseNacController : UINavigationController
 
 @end
